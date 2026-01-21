@@ -1,19 +1,17 @@
 {
-    "name": "y0data",
-    "description": "Y0data online services to save your data",
-    "version": "0.0.1",
-    "main": "data/plugin.js",
-    "dependencies": {
-        "events": "^3.3.0",
-        "random-token": "^0.0.8",
-        "ws": "^8.16.0"
-    },
-    "keywords": [
-        "database",
-        "data",
-        "y0data"
-    ],
-    "author": "Yousuf",
-    "license": "BSD-2-Clause",
-    "readmeFilename": "README.md"
+  "name": "yodata",
+  "description": "Yodata online services to save your data",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "bson": "^7.0.0"
+  },
+  "keywords": [
+    "database",
+    "data",
+    "yodata"
+  ],
+  "author": "Yousuf",
+  "license": "BSD-2-Clause",
+  "readmeFilename": "README.md"
 }
