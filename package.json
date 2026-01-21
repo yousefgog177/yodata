@@ -1,7 +1,7 @@
 {
   "name": "yodata",
   "description": "Yodata online services to save your data",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "bson": "^7.0.0"
@@ -13,5 +13,13 @@
   ],
   "author": "Yousuf",
   "license": "BSD-2-Clause",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefgog177/yodata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yousefgog177/yodata/issues"
+  },
+  "homepage": "https://github.com/yousefgog177/yodata#readme"
 }
